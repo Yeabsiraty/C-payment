@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1681668171 source:c:\users\abush\desktop\gee'z\geez\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
+1684000049 source:d:\gee'z\geez\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
+1684000049 source:c:\users\abush\documents\geez\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
